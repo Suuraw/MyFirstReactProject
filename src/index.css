@@ -1,0 +1,17 @@
+html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height: 500px;
+  background-color: black;
+
+}
+.positive-no-container{
+  background-color: black;
+  color: white;
+}
